@@ -1,0 +1,32 @@
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ResourceDictionary.ThemeDictionaries>
+    <ResourceDictionary x:Key="Default">
+      <Color x:Key="ThemeForegroundColor">#222222</Color>
+      <Color x:Key="ThemeForegroundAltColor">#1f1f1f</Color>
+      <Color x:Key="ThemeForegroundMediumColor">#5e5e5f</Color>
+      <Color x:Key="ThemeForegroundLowColor">#999a9b</Color>
+      
+      <Color x:Key="ThemeBackgroundColor">#cfcfd1</Color>
+      <Color x:Key="ThemeBackgroundHighColor">#ffffff</Color>
+      <Color x:Key="ThemeBackgroundLowColor">#ececee</Color>
+      <Color x:Key="ThemeBackgroundAltColor">#939399</Color>
+      
+      <Color x:Key="ThemeOutlineColor">#1b1b1c</Color>
+    </ResourceDictionary>
+
+    <ResourceDictionary x:Key="Dark">
+      <Color x:Key="ThemeForegroundColor">#ffffff</Color>
+      <Color x:Key="ThemeForegroundAltColor">#ffd102</Color>
+      <Color x:Key="ThemeForegroundMediumColor">#b2b2b2</Color>
+      <Color x:Key="ThemeForegroundLowColor">#999a9b</Color>
+
+      <Color x:Key="ThemeBackgroundColor">#29292a</Color>
+      <Color x:Key="ThemeBackgroundHighColor">#3f3f40</Color>
+      <Color x:Key="ThemeBackgroundLowColor">#585859</Color>
+      <Color x:Key="ThemeBackgroundAltColor">#ffd102</Color>
+
+      <Color x:Key="ThemeOutlineColor">#050506</Color>
+    </ResourceDictionary>
+  </ResourceDictionary.ThemeDictionaries>
+</ResourceDictionary>

@@ -12,4 +12,10 @@
     <PackageReference Include="Avalonia" Version="$(AvaloniaVersion)" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Assets\" />
+    <Folder Include="Controls\" />
+    <Folder Include="Styles\" />
+  </ItemGroup>
+
 </Project>
